@@ -1,0 +1,6 @@
+# Some handy (read, lazy) shortcuts
+alias brw='brew'
+alias ll='ls -l'
+alias lla='ls -la'
+# https://superuser.com/questions/441556/bash-alias-doesnt-carry-over-with-sudo
+alias sudo='sudo '
